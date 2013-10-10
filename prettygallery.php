@@ -1,13 +1,12 @@
 <?php
 /*
 Plugin Name: PrettyGallery
-Plugin URI: http://www.arjunjain.info
+Plugin URI: http://www.webnoetic.com
 Description: Integrate Wordpress default gallery shortcode with jquery modal popup.
-Author: Arjun Jain
-Author URI: http://www.arjunjain.info
+Author: webnoetic
+Author URI: http://www.webnoetic.com
 Version: 1.0
 */
-
 
 /**
  * Modify wordpress default gallery
