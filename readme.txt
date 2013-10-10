@@ -2,10 +2,10 @@
 Contributors: webnoetic	
 Author URI: http://www.webnoetic.com
 Donate link: http://www.webnoetic.com
-Plugin URI:   
+Plugin URI: 
 Tags: gallery, gallery shortcode, jquery modal box, gallery modal box
-Requires at least: 3.0
-Tested up to: 3.5
+Requires at least: 3.3
+Tested up to: 3.6.1
 Stable tag: 1.0
 
 Integrate Wordpress default gallery shortcode ([gallery]) with jquery modal popup.
