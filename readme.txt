@@ -1,11 +1,11 @@
 === PrettyGallery ===
 Contributors: webnoetic	
 Author URI: http://www.webnoetic.com
-Donate link: http://www.webnoetic.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E3299EETMJR2U
 Plugin URI: http://wordpress.org/plugins/prettygallery
 Tags: gallery, gallery shortcode, jquery modal box, gallery modal box, wordpress gallery, awesome gallery, jquery gallery, javascript gallery
 Requires at least: 3.3
-Tested up to: 3.6.1
+Tested up to: 4.0.1
 Stable tag: 1.0
 License: GPLv3
 
@@ -19,6 +19,10 @@ This wordpress plugin is used to integrate wordpress default gallery shortcode (
 * Zero setup
 * Support with multiple shortcode on same page
 * For Demo [Click Here](http://demo.webnoetic.com/prettygallery/)
+
+**Github**
+
+https://github.com/webnoetic/prettygallery
 
 == Support ==
 * Find any bug [click Here](https://github.com/webnoetic/prettygallery/issues)
